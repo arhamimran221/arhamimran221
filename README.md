@@ -2,7 +2,7 @@
 
 🎨 **Front-end Developer** | ⚛️ **React.js Enthusiast** | 🌐 **UI/UX Designer**
 
-![Profile Banner](https://designhub.co/wp-content/uploads/2020/09/Banner5.jpg)
+![Profile Banner](https://www.linkedin.com/in/arham-imran-921313289/overlay/background-image/)
 
 Welcome to my GitHub profile! I'm a passionate front-end developer based in Lahore, Pakistan, specializing in creating beautiful and user-friendly web applications. My expertise lies in React.js, and I thrive on transforming ideas into interactive, high-performance web experiences.
 
