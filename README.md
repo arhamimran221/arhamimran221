@@ -2,7 +2,7 @@
 
 🎨 **Front-end Developer** | ⚛️ **React.js Enthusiast** | 🌐 **UI/UX Designer**
 
-![Profile Banner](https://www.linkedin.com/in/arham-imran-921313289/overlay/background-image/)
+![Profile Banner](https://marketplace.canva.com/EAFFI2trtnE/1/0/1600w/canva-black-minimalist-motivation-quote-linkedin-banner-cqVV-6-1kOk.jpg)
 
 Welcome to my GitHub profile! I'm a passionate front-end developer based in Lahore, Pakistan, specializing in creating beautiful and user-friendly web applications. My expertise lies in React.js, and I thrive on transforming ideas into interactive, high-performance web experiences.
 
